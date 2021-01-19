@@ -1,2 +1,2 @@
 # beatles
-http://127.0.0.1:5500/index.html
+http://30442.hosts1.ma-cloud.nl/beatles/
